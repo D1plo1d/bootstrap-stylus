@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-stylus",
+  "version": "2.3.1",
+  "main": "stylus/boostrap.styl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
